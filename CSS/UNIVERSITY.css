@@ -1,0 +1,51 @@
+*{
+   box-sizing: border-box; 
+   margin: 0px;
+   padding: 0px; 
+}
+.marquee-group{
+    background-color: black;
+    padding: 15px;
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.marquee-group marquee{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: large;
+}
+marquee ul{
+    display: flex;
+    gap: 30px;
+}
+.topnav2{
+    background-color: rgba(255, 255, 0, 0.979);
+    padding: 15px;
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.topnav2 img{
+    margin-left: 75px;
+    margin-top: 10px;
+}
+.topnav2 button{
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    gap: 9px;
+}
+.names ul{
+    text-align: center;
+    font-weight: bold;
+    display: flex;
+    gap: 30px; 
+}
+ul li{
+    display: flex;
+    text-align: center;
+
+}
+.nav1{
+    display: flex;
+    gap:20px;
+}

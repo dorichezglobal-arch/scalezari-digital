@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(14, 235, 14);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borderline{
+    background-color: rgb(12, 116, 12);
+    border: 8px;
+    border-style: solid;
+    border-color: white;
+    padding: 5px;
+    width:40%;
+    text-align: center;
+    margin-top: 20px;
+    border-radius: 100%;
+    font-size:  100px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.tagline{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    color: white;
+    font-size: 80px;
+    margin: 20px;
+
+}

@@ -1,0 +1,29 @@
+body{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.borderline{
+    /* border: 2px; */
+    /* border-style: solid; */
+    padding:10px;
+    font-size: 90px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.blue{
+    color: rgb(92, 160, 216);
+}
+
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.yellow{
+    color: rgb(238, 238, 33);
+}
